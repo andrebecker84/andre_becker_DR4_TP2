@@ -1,15 +1,21 @@
 # Projeto de Exercícios React
 
-![Logomarca da Faculdade](./public/infnet_logo.png)  
-**Nome da Matéria**  
-**Nome do Professor**  
-**Seu Nome**
+<p align="center">
+  <img src="./public/infnet_logo.png" alt="Logomarca da Faculdade" width="25%" />
+</p>
 
-## My Badges
+<p align="center">
+  <strong>TP2 • Desenvolvimento Web com React</strong><br>
+  <strong>Professor: Armênio Torres Santiago Cardoso</strong><br>
+  <strong>Aluno: André Luis Becker</strong>
+</p>
 
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white)](https://github.com/andrebecker84)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/becker84)
-[![Website](https://img.shields.io/badge/Website-FF5722?style=flat&logo=google-chrome&logoColor=white)](https://andrebecker84.github.io/my-links/)
+<p align="center">
+
+  [![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white)](https://github.com/andrebecker84)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/becker84)
+  [![Website](https://img.shields.io/badge/Website-FF5722?style=flat&logo=google-chrome&logoColor=white)](https://andrebecker84.github.io/my-links/)
+</p>
 
 ## Exercícios
 
@@ -50,5 +56,6 @@ Aqui está uma lista dos exercícios desenvolvidos no projeto:
 ## Referências
 
 - [Faker](https://fakerjs.dev/)
-- [API do IBGE](https://servicodados.ibge.gov.br/api/v1/localidades/estados?orderBy=nome)
-- [Ranking de nomes brasileiros](https://servicodados.ibge.gov.br/api/v2/censos/nomes/ranking/?decada=1950)
+- [API do IBGE - Estados](https://servicodados.ibge.gov.br/api/v1/localidades/estados?orderBy=nome)
+- [API do IBGE - Municipios](https://servicodados.ibge.gov.br/api/v1/localidades/estados/33/municipios)
+- [API do IBGE - Ranking de nomes brasileiros](https://servicodados.ibge.gov.br/api/v2/censos/nomes/ranking/?decada=1950)
