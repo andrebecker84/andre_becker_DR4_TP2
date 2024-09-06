@@ -11,9 +11,15 @@
 </p>
 
 <p align="center">
-  [![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white)](https://github.com/andrebecker84)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/becker84)
-  [![Website](https://img.shields.io/badge/Website-FF5722?style=flat&logo=google-chrome&logoColor=white)](https://andrebecker84.github.io/my-links/)
+  <a href="https://github.com/andrebecker84">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white" alt="GitHub Badge"/>
+  </a>
+  <a href="https://www.linkedin.com/in/becker84">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://andrebecker84.github.io/my-links/">
+    <img src="https://img.shields.io/badge/Website-FF5722?style=flat&logo=google-chrome&logoColor=white" alt="Website Badge"/>
+  </a>
 </p>
 
 ## Exercícios
