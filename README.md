@@ -11,7 +11,6 @@
 </p>
 
 <p align="center">
-
   [![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white)](https://github.com/andrebecker84)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/becker84)
   [![Website](https://img.shields.io/badge/Website-FF5722?style=flat&logo=google-chrome&logoColor=white)](https://andrebecker84.github.io/my-links/)
@@ -35,23 +34,23 @@ Aqui está uma lista dos exercícios desenvolvidos no projeto:
 
 7. **[Exercise07.jsx](./src/exercises/Exercise07.jsx)** – Crie um componente que calcule o fatorial de um número digitado usando `useMemo` para memorizar o resultado e evitar cálculos desnecessários.
 
-8. **[Exercise08.jsx](./src/exercises/Exercise08.jsx)** – Desenvolva uma página com um input e uma lista de 100 nomes gerados pelo Faker. Filtre a lista conforme o usuário digita no input, considerando a busca por início dos caracteres digitados.
+8. **[Exercise08.jsx](./src/exercises/Exercise08.jsx)** – Desenvolva uma página com um input e uma lista de 100 nomes completos gerados pelo Faker. Filtre a lista conforme o usuário digita no input, considerando a busca por início dos caracteres digitados. (desconsidere maiúsculas e minúsculas).
 
-9. **[Exercise09.jsx](./src/exercises/Exercise09.jsx)** – Filtre a lista de nomes (do exercício anterior) para incluir nomes que contenham os caracteres digitados.
+9. **[Exercise09.jsx](./src/exercises/Exercise09.jsx)** – Filtre a lista de nomes (do exercício anterior) para incluir nomes que contenham os caracteres digitados. (desconsidere maiúsculas e minúsculas).
 
-10. **[Exercise10.jsx](./src/exercises/Exercise10.jsx)** – Adicione um campo para o cargo (job title) e filtre a lista de nomes e cargos conforme os caracteres digitados.
+10. **[Exercise10.jsx](./src/exercises/Exercise10.jsx)** – Adicione um campo para o cargo (job title) e filtre a lista de nomes e cargos conforme os caracteres digitados. (desconsidere maiúsculas e minúsculas).
 
-11. **[Exercise11.jsx](./src/exercises/Exercise11.jsx)** – Filtre a lista de nomes e cargos que contenham os caracteres digitados.
+11. **[Exercise11.jsx](./src/exercises/Exercise11.jsx)** – Filtre a lista de nomes e cargos que contenham os caracteres digitados. (desconsidere maiúsculas e minúsculas).
 
-12. **[Exercise12.jsx](./src/exercises/Exercise12.jsx)** – Crie duas listas suspensas (drop-down): uma para UFs e outra para municípios, utilizando a API do IBGE e gerencie os dados com `useEffect` e `useState`.
+12. **[Exercise12.jsx](./src/exercises/Exercise12.jsx)** – Crie 2 listas suspensas com (select drop-down): uma para UFs e outra para municípios, utilizando a API do IBGE e gerencie os dados com `useEffect` e `useState`.
 
-13. **[Exercise13.jsx](./src/exercises/Exercise13.jsx)** – Crie uma página com uma única lista suspensa para UFs e liste os municípios abaixo da lista suspensa.
+13. **[Exercise13.jsx](./src/exercises/Exercise13.jsx)** – Crie uma página com 1 lista suspensa (select drop-down) para UFs e liste os municípios abaixo da lista suspensa.
 
-14. **[Exercise14.jsx](./src/exercises/Exercise14.jsx)** – Crie uma página com uma lista suspensa para UFs e um input para filtrar os municípios iniciados pelos caracteres digitados.
+14. **[Exercise14.jsx](./src/exercises/Exercise14.jsx)** – Crie uma página com 1 lista suspensa (select drop-down) para UFs e um input para filtrar os municípios iniciados pelos caracteres digitados. (desconsidere maiúsculas e minúsculas).
 
-15. **[Exercise15.jsx](./src/exercises/Exercise15.jsx)** – Crie uma página com uma lista suspensa para UFs e um input para filtrar os municípios que contenham os caracteres digitados.
+15. **[Exercise15.jsx](./src/exercises/Exercise15.jsx)** – Crie uma página com 1 lista suspensa (select drop-down) para UFs e um input para filtrar os municípios que contenham os caracteres digitados. (desconsidere maiúsculas e minúsculas).
 
-16. **[Exercise16.jsx](./src/exercises/Exercise16.jsx)** – Crie uma página com um input para digitar um ano terminado em ZERO e mostre o ranking de frequência de nomes brasileiros.
+16. **[Exercise16.jsx](./src/exercises/Exercise16.jsx)** – Crie uma página com um input para digitar um ano terminado em ZERO (década) e mostre o ranking de frequência de nomes brasileiros.
 
 ## Referências
 
