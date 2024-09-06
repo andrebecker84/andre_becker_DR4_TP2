@@ -12,13 +12,13 @@
 
 <p align="center">
   <a href="https://github.com/andrebecker84" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/andrebecker84-000000?style=flat&logo=github&logoColor=white" alt="GitHub Badge"/>
+    <img src="https://img.shields.io/badge/andrebecker84-000000?style=flat&logo=github&logoColor=white" alt="GitHub Badge" style="text-decoration: none;"/>
   </a>
   <a href="https://www.linkedin.com/in/becker84" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/becker84-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/becker84-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge" style="text-decoration: none;"/>
   </a>
   <a href="https://andrebecker84.github.io/my-links/" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/My-links-FF5722?style=flat&logo=google-chrome&logoColor=white" alt="Website Badge"/>
+    <img src="https://img.shields.io/badge/My-links-FF5722?style=flat&logo=google-chrome&logoColor=white" alt="Website Badge" style="text-decoration: none;"/>
   </a>
 </p>
 
